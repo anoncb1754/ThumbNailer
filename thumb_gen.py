@@ -10,13 +10,17 @@ Prerequesites:
 
 Usage:
     Start script by 
+
     * providing the source folder containing the images as first argument
     * the target folder that will contain the thumbnails as second argument
     * the size of the square thumbnail as last argument.
     * e.g. python thumb_gen.py /sourcefolder /targetfolder 100
-    This will take all JPG and PNG files from the sourcefolder and saves
-    all thumbnails as square with width and height of 100 px to the specified
-    targetfolder.
+
+This will take all JPG and PNG files from the sourcefolder and saves
+all thumbnails as square with width and height of 100 px to the specified
+targetfolder.
+
+
 """
 
 
